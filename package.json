@@ -1,0 +1,14 @@
+{
+  "name": "printserver",
+  "version": "1.0.0",
+  "description": "Rasberry Pi Print Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "14gasher <asher.gunsay@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "printer": "git+https://github.com/tojocky/node-printer.git"
+  }
+}
